@@ -2,4 +2,4 @@
 
 ### Usage
 
-    ./auth
+    ./auth <domain> <email>
