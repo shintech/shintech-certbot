@@ -1,0 +1,5 @@
+## shintech-certbot
+
+### Usage
+
+    ./auth

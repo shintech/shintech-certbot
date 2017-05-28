@@ -1,0 +1,6 @@
+version: '2'
+services:
+  certbot:
+    image: certbot/certbot
+    volumes:
+    - ./data/etc:/etc/letsencrypt
